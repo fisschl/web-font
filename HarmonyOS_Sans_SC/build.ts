@@ -14,7 +14,7 @@ const run = async (options: Options) => {
     testHTML: false,
     reporter: false,
     css: {
-      fontFamily: "HarmonyOS Sans",
+      fontFamily: "HarmonyOS Sans SC",
       fontWeight: options.fontWeight,
     },
     renameOutputFont: "[index][ext]",
